@@ -1,6 +1,8 @@
 # Hugging Face Models and Datasets
 
-This repo contains some of my fine-tuned models and curated datasets on [HuggingFace](https://huggingface.co/bhuvanmdev). Below is a list of the available models and datasets along with their descriptions.
+This repo contains some of my fine-tuned models and curated datasets on HuggingFace. Below is a list of the available models and datasets along with their descriptions.
+
+[My Huggingface Repo](https://huggingface.co/bhuvanmdev)
 
 ## Models
 
